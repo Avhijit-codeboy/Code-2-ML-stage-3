@@ -2,4 +2,4 @@
 
 Chandu Sri Harsha - 18BCD7026
 
-RUSHIK KUMAR AVULA - 18BCN7008
+Rushik Kumar Avula - 18BCN7008
