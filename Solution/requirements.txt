@@ -1,0 +1,10 @@
+Requirements:Pandas,Scikit-learn,Numpy,MathPlotLib,Seaborn
+
+For Computation:Jupyter Notebook,Google Colab
+
+Language: Python
+
+Data Input Format: xlsx
+
+
+
