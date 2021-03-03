@@ -1,0 +1,12 @@
+platform:Jyputer Notebook
+
+programming language:Python 3
+
+packages used in the code:
+-pandas
+-numpy
+-matpoltlib
+-sklearn
+-seaborn
+
+NOTE: convert the .xlsx file to .csv as code uses .csv file as input
